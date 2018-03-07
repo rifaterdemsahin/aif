@@ -4,6 +4,8 @@ publication dateMar 6, 2018  publication descriptionErdem Sahin
 
 publication descriptionAdaptive Intelligence Framework focuses on creating an artificial intelligence framework where applications can adapt to changing metadata and the new functions that are updated.
 
+Framework acts as a factory for the application backend.
+
 References
 CQRS
 https://martinfowler.com/bliki/CQRS.html
