@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4C4A3AB3-E2EF-4117-BCD6-39CC437D1906}|Default">
+  <MonoDevelop.Ide.ItemProperties.InfrastruceAsCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InfrastruceAsCode/Program.cs">
+    <Files>
+      <File FileName="InfrastruceAsCode/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
