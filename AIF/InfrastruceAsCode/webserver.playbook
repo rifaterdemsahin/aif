@@ -5,7 +5,7 @@ gather_facts: no
 
 vars:
  service_account_email: aif-318@developer.gserviceaccount.com
- credentials_file: /project.json
+ credentials_file: /Users/rifaterdemsahin/keys/adaptiveintelligenceframework-f0833ece51c8.json
  project_id: adaptiveintelligenceframework
  machine_type: n1-standard-1
  image: debian-7
