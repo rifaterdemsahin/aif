@@ -15,3 +15,6 @@ http://adaptiveobjectmodel.com/
 
 Serverless Architecture
 https://martinfowler.com/articles/serverless.html
+
+DevOps Design
+https://docs.google.com/document/d/1KKCyBOf3XEIoI6PMerDl5BBeXWu5lKyBRzP91LDkPDw/edit?usp=sharing
