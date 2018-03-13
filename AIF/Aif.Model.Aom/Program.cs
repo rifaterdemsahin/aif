@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace InfrastruceAsCode
+namespace Aif.Model.Aom
 {
     class Program
     {
