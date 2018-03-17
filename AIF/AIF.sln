@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aif.Service.Query", "Aif.Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aif.Instructure.Code", "Aif.Instructure.Code\Aif.Instructure.Code.csproj", "{9CE961BE-06F8-48BC-8AAD-60DF5B0BF52D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aif.Test.Smoke", "Aif.Test.Smoke\Aif.Test.Smoke.csproj", "{69710C7D-AB69-460D-A6CA-195FB01E5346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aif.Test.Integration", "Aif.Test.Integration\Aif.Test.Integration.csproj", "{0EF8C62F-391F-4179-AC91-6C9944C0DEE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +35,13 @@ Global
 		{9CE961BE-06F8-48BC-8AAD-60DF5B0BF52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CE961BE-06F8-48BC-8AAD-60DF5B0BF52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CE961BE-06F8-48BC-8AAD-60DF5B0BF52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69710C7D-AB69-460D-A6CA-195FB01E5346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69710C7D-AB69-460D-A6CA-195FB01E5346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69710C7D-AB69-460D-A6CA-195FB01E5346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69710C7D-AB69-460D-A6CA-195FB01E5346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF8C62F-391F-4179-AC91-6C9944C0DEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF8C62F-391F-4179-AC91-6C9944C0DEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF8C62F-391F-4179-AC91-6C9944C0DEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF8C62F-391F-4179-AC91-6C9944C0DEE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

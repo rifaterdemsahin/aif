@@ -1,12 +1,15 @@
 ﻿<Properties StartupConfiguration="{FBFCD11D-DE7F-44D8-908D-BBFEDAAC3509}|Default">
+  <MonoDevelop.Ide.ItemProperties.Aif.Test.Smoke FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Aif.Model.Aom FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Aif.Service.Query FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Aif.Instructure.Code/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aif.Test.Integration/Program.cs">
     <Files>
       <File FileName="Aif.Service.Command/Program.cs" Line="1" Column="1" />
       <File FileName="Aif.Model.Aom/Program.cs" Line="1" Column="1" />
       <File FileName="Aif.Service.Query/Program.cs" Line="1" Column="1" />
       <File FileName="Aif.Instructure.Code/Program.cs" Line="1" Column="1" />
+      <File FileName="Aif.Test.Smoke/Program.cs" Line="1" Column="1" />
+      <File FileName="Aif.Test.Integration/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Aif.Service.Command PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
@@ -16,5 +19,6 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Aif.Test.Integration FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Aif.Instructure.Code FirstBuild="True" />
 </Properties>
