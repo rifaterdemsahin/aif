@@ -1,4 +1,4 @@
-# aif .  building skynet (: 
+# aif 
 Adaptive Intelligence Framework ( Open Source Project )
 publication date :Mar 6, 2018 
 
@@ -19,7 +19,7 @@ https://martinfowler.com/articles/serverless.html
 DevOps Design
 https://docs.google.com/document/d/1KKCyBOf3XEIoI6PMerDl5BBeXWu5lKyBRzP91LDkPDw/edit?usp=sharing
 
-
+Artifical Intelligence not building skynet (: will use this to make the game interesting 
 
 Started By
 Erdem Sahin
