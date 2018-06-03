@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 85c00ff5f36da5e4690dbe891f05e169
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dialog_background
+    21300002: featureimg_background
+    21300004: texture
+    21300006: play_button
+    21300008: quit_button
+    21300010: install_button
+    21300012: button_install
+    21300014: button_later
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dialog_background
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 613
+        height: 583
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: featureimg_background
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 586
+        width: 539
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: texture
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 915
+        width: 266
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_install
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 586
+        width: 218
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_later
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 671
+        width: 218
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: install_button
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 756
+        width: 200
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: play_button
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 821
+        width: 176
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quit_button
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 891
+        width: 176
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

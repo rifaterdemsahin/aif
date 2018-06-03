@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b7f5a73bbe9ee8945a04e35e1f6ae4a8
+timeCreated: 1491835714
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RockoUltraFLF
+  fontNames:
+  - RockoUltraFLF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4e0de5efaffbf3f4a9bc2047198aaf6d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
