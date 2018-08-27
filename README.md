@@ -1,7 +1,10 @@
 Adaptive Intelligence Framework ( Open Source Project )
 publication date : Mar 6, 2018 
 
-Poverty is one of main problem the world is facing in 21st century. Language barriers is the greatest obstacle in people's lives, especially in poor countries. AIF(Adaptive Intelligence Framework) focuses to solve this problem using a mobile game which is empowered by an artificial intelligence framework by making the game engaging.
+Poverty is one of main problem the world is facing in 21st century. Language barriers is the greatest obstacle in people's lives, especially in poor countries.
+
+AIF(Adaptive Intelligence Framework) focuses to solve this problem using a mobile game which is empowered by an artificial intelligence framework by making the learning process engaging.
+
 
 Adaptive Intelligence Framework focuses on creating an artificial intelligence framework where applications can adapt to changing metadata and the new functions that are updated.
 
