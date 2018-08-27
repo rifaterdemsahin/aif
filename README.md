@@ -11,6 +11,10 @@ Adaptive Intelligence Framework focuses on creating an artificial intelligence f
 Framework acts as a factory for the application backend.
 
 References
+
+Gamification
+https://en.wikipedia.org/wiki/Gamification
+
 CQRS
 https://martinfowler.com/bliki/CQRS.html
 
