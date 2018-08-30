@@ -8,7 +8,7 @@ AIF(Adaptive Intelligence Framework) focuses to solve this problem using a mobil
 
 Adaptive Intelligence Framework focuses on creating an artificial intelligence framework where applications can adapt to changing metadata and the new functions that are updated.
 
-Framework acts as a factory for the application backend.
+Purpose of the AI is to keep the game entertaining.
 
 References
 
